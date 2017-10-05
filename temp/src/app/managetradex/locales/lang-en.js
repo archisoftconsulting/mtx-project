@@ -1,18 +1,15 @@
-export const LANG_EN_NAME = 'en';
-
-export const LANG_EN_TRANS = {
-    
+export var LANG_EN_NAME = 'en';
+export var LANG_EN_TRANS = {
     // *** LOGIN AND DASHBOARD *** //
     'sign in': 'Sign In',
-    'user id': 'User ID',    
-    'password': 'Password', 
+    'user id': 'User ID',
+    'password': 'Password',
     'forgot password': 'Forgot Password',
     'login': 'Login',
     'userid or password is incorrect': 'User ID or password is incorrect',
     'username is required': 'User ID is required',
     'password is required': 'Password is required',
     'page not found': 'Page Not Found!',
-    
     // *** HEADER AND DASHBOARD *** //
     'welcome back': 'Welcome back',
     'terms of use': 'Term Of Use',
@@ -34,25 +31,21 @@ export const LANG_EN_TRANS = {
     'view all': 'View all',
     'recent transaction': 'Recent Transaction',
     'saved Drafts': 'Saved Drafts',
-    
     // *** SAMPLE *** //
     'user name': 'User Name',
     'first name': 'First Name',
     'last name': 'Last Name',
     'no data found': 'No data found...',
-    
     // *** MARKETING *** //
     'marketing': 'Marketing',
     'supplier': 'Supplier',
     'buyer': 'Buyer',
     'login as': 'Login as',
-    
-	// *** SUPPLIER LOGIN *** //
+    // *** SUPPLIER LOGIN *** //
     'need an account': 'Need an account',
     'create account': 'Create account',
     'user id is required': 'User ID is required',
     //'password is required': 'Password is required',	
-	
     // *** BUYER"S DASHBOARD *** //
     'saved drafts': 'Saved Drafts',
     'view all drafts': 'View All Drafts',
@@ -73,7 +66,6 @@ export const LANG_EN_TRANS = {
     'create': 'Create',
     'dashboard information and statistics': 'Dashboard Information and Statistics',
     'invoices overview': 'Invoices Overview',
-
     // *** SIDE MENU *** //
     'purchase order': 'Purchase Order',
     'received invoices': 'Received Invoices',
@@ -81,13 +73,6 @@ export const LANG_EN_TRANS = {
     'network': 'Network',
     'company profile': 'Company Profile',
     'ask our expert': 'Ask Our Expert',
-    
-    // *** SUPPLIER"S DASHBOARD *** //
-    'po received': 'PO Received',
-    'used credits': 'Used Credits',
-    'available credits': 'Available Credits',
-    'view all po': 'View All PO',
-
     'dashboard': 'Dashboard',
     'business settings': 'Business Settings',
     'add user': 'Add User',
@@ -104,7 +89,6 @@ export const LANG_EN_TRANS = {
     'purchase order summary report': 'Purchase Order Summary Report',
     'create purchase order': 'Create Purchase Order',
     'create debit note': 'Create Debit Note',
-    
     // *** COMPANY PROFILE *** //
     'general info': 'General Info',
     'contact person': 'Contact Person',
@@ -130,5 +114,5 @@ export const LANG_EN_TRANS = {
     'different from business address': 'Different from Business Address',
     'edit': 'Edit',
     'save': 'Save',
-
 };
+//# sourceMappingURL=lang-en.js.map

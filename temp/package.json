@@ -1,0 +1,27 @@
+{
+   "name": "managetradex",
+   "version": "0.0.1",
+   "description": "A translate service for Angular.",
+   "main": "bundles/managetradex.umd.js",
+   "module": "index.js",
+   "typings": "index.d.ts",
+   "keywords": [
+     "angular2",
+     "angular 2",
+     "angular4"
+   ],
+   "author": "Mohd Zaki",
+   "license": "MIT",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/archisoftconsulting/mtx-project.git"
+   },
+   "homepage": "https://github.com/archisoftconsulting/mtx-project",
+   "bugs": {
+     "url": "https://github.com/archisoftconsulting/mtx-project/issues"
+   },
+   "peerDependencies": {
+     "@angular/core": "^2.4.0 || ^4.0.0",
+     "rxjs": "^5.0.1"
+   }
+ }

@@ -1,18 +1,15 @@
-export const LANG_ZH_NAME = 'zh';
-
-export const LANG_ZH_TRANS = {
-    
+export var LANG_ZH_NAME = 'zh';
+export var LANG_ZH_TRANS = {
     // *** LOGIN AND DASHBOARD *** //
     'sign in': '签到',
     'user id': '用户名',
     'password': '密码',
     'forgot password': '忘记密码',
-    'login': '登录',    
+    'login': '登录',
     'userid or password is incorrect': '用户名或密码不正确',
     'username is required': '用户ID是必需的',
     'password is required': '密码是必需的',
     'page not found': '找不到网页!',
-    
     // *** HEADER AND DASHBOARD *** //
     'welcome back': '欢迎回来',
     'terms of use': '使用期限',
@@ -34,25 +31,21 @@ export const LANG_ZH_TRANS = {
     'view all': '查看全部',
     'recent transaction': '最近交易',
     'saved Drafts': '保存的草稿',
-    
     // *** SAMPLE *** //
     'user name': '用户名',
     'first name': '名字',
     'last name': '姓',
     'no data found': '没有找到数据',
-    
     // *** MARKETING *** //
     'marketing': '营销',
     'supplier': '供应商',
     'buyer': '买方',
     'login as': '登录为',
-	
-	// *** SUPPLIER LOGIN *** //
+    // *** SUPPLIER LOGIN *** //
     'need an account': '需要一个帐户',
     'create account': '创建帐号',
     'user id is required': '需要用户ID',
     //'password is required': '密码是必需的',
-    
     // *** BUYER"S DASHBOARD *** //
     'saved drafts': '保存草稿',
     'view all drafts': '查看所有草稿',
@@ -73,13 +66,6 @@ export const LANG_ZH_TRANS = {
     'create': '创建',
     'dashboard information and statistics': '仪表板信息和统计',
     'invoices overview': '发票概述',
-
-    // *** SUPPLIER"S DASHBOARD *** //
-    'po received': '收到订单',
-    'used credits': '使用积分',
-    'available credits': '可用信用',
-    'view all po': '查看所有采购订单',
-
     // *** SIDE MENU *** //
     'purchase order': '采购订单',
     'received invoices': '收到发票',
@@ -87,7 +73,6 @@ export const LANG_ZH_TRANS = {
     'network': '网络',
     'company profile': '公司简介',
     'ask our expert': '问我们的专家',
-		
     'dashboard': '仪表板',
     'business settings': '业务设置',
     'add user': '添加用户',
@@ -104,11 +89,10 @@ export const LANG_ZH_TRANS = {
     'purchase order summary report': '采购订单摘要报告',
     'create purchase order': '创建采购订单',
     'create debit note': '创建借记单',
-	
     // *** COMPANY PROFILE *** //
     'general info': '基本信息',
     'contact person': '联系人',
-    'documents': '文件',	
+    'documents': '文件',
     'client identifier': '客户端标识符',
     'company name': '公司名',
     'business registration no': '商业登记号码',
@@ -131,3 +115,4 @@ export const LANG_ZH_TRANS = {
     'edit': '编辑',
     'save': '保存',
 };
+//# sourceMappingURL=lang-zh.js.map

@@ -29,7 +29,7 @@
     ]
   },
   "files": [
-    "./src//app/managetradex/index.ts"
+    "./src/app/managetradex/index.ts"
   ],
   "angularCompilerOptions": {
     "strictMetadataEmit": true

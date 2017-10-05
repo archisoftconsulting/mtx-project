@@ -1,7 +1,5 @@
-export const LANG_MS_NAME = 'ms';
-
-export const LANG_MS_TRANS = {
-    
+export var LANG_MS_NAME = 'ms';
+export var LANG_MS_TRANS = {
     // *** LOGIN AND DASHBOARD *** //
     'sign in': 'Log Masuk',
     'user id': 'ID Pengguna',
@@ -12,7 +10,6 @@ export const LANG_MS_TRANS = {
     'username is required': 'ID Pengguna diperlukan',
     'password is required': 'Kata Laluan diperlukan',
     'page not found': 'Halaman Tidak Dijumpai!',
-    
     // *** HEADER AND DASHBOARD *** //
     'welcome back': 'Selamat kembali',
     'terms of use': 'Terma Pengguna',
@@ -34,26 +31,21 @@ export const LANG_MS_TRANS = {
     'view all': 'Lihat semua',
     'recent transaction': 'Transaksi Terkini',
     'saved Drafts': 'Draf Yang Disimpan',
-    
     // *** SAMPLE *** //
     'user name': 'Nama Pengguna',
     'first name': 'Nama Pertama',
     'last name': 'Nama Terakhir',
     'no data found': 'Tiada data yang dijumpai...',
-    
     // *** MARKETING *** //
     'marketing': 'Pemasaran',
     'supplier': 'Pembekal',
     'buyer': 'Pembeli',
     'login as': 'Log masuk sebagai',
-    
-	// *** SUPPLIER LOGIN *** //
+    // *** SUPPLIER LOGIN *** //
     'need an account': 'Perlukan akaun',
     'create account': 'Cipta akaun',
     'user id is required': 'ID Pengguna diperlukan',
     //'password is required': 'Kata Laluan diperlukan',
-	
-	
     // *** BUYER"S DASHBOARD *** //
     'saved drafts': 'Draf Yang Disimpan',
     'view all drafts': 'Lihat Semua Draf',
@@ -74,13 +66,6 @@ export const LANG_MS_TRANS = {
     'create': 'Wujudkan',
     'dashboard information and statistics': 'Maklumat dan Statistik Papan Pemuka',
     'invoices overview': 'Gambaran Keseluruhan Invois',
-    
-    // *** SUPPLIER"S DASHBOARD *** //
-    'po received': 'Pesanan Pembelian Yang Diterima',
-    'used credits': 'Kredit Yang Digunakan',
-    'available credits': 'Kredit Sedia Ada',
-    'view all po': 'Lihat Semua Pesanan Pembelian',
-
     // *** SIDE MENU *** //
     'purchase order': 'Pesanan Pembelian',
     'received invoices': 'Invois Diterima',
@@ -88,8 +73,6 @@ export const LANG_MS_TRANS = {
     'network': 'Rangkaian',
     'company profile': 'Profil Syarikat',
     'ask our expert': 'Tanya Pakar Kami',
-
-	
     'dashboard': 'Papan Pemuka',
     'business settings': 'Tetapan Perniagaan',
     'add user': 'Tambah Pengguna',
@@ -106,7 +89,6 @@ export const LANG_MS_TRANS = {
     'purchase order summary report': 'Laporan Ringkasan Pesanan Pembelian',
     'create purchase order': 'Cipta Pesanan Pembelian',
     'create debit note': 'Cipta Nota Debit',
-	
     // *** COMPANY PROFILE *** //
     'general info': 'Maklumat Am',
     'contact person': 'Orang Perhubungan',
@@ -133,3 +115,4 @@ export const LANG_MS_TRANS = {
     'edit': 'Sunting',
     'save': 'Simpan',
 };
+//# sourceMappingURL=lang-ms.js.map
