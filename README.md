@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Transpile, Packaging and Minify
-Run `npm run builnpm` to execute ngc, rollup and uglify
+Run `npm run buildnpm` to execute ngc, rollup and uglify
 
 ## Login to NPM
 Run `npm login` to login to NPM
